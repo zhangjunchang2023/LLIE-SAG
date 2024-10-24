@@ -24,6 +24,8 @@ conda install pytorch=1.11 torchvision cudatoolkit=11.3 -c pytorch
 Datasets without reference images -NPE, LIME, MEF, DICM and VV:
 
   https://pan.baidu.com/s/1zlMuewN4LEViqEVWK0dNdQ?pwd=jn99 password:jn99
+  ![image](https://github.com/user-attachments/assets/4fac8b5b-3470-45e0-83bf-bfb1ccf44933)
+
   
 Figure 7 corresponds to a dataset of real 6 images taken randomly at night:
 
