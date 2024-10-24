@@ -31,3 +31,11 @@ Datasets without reference images -NPE, LIME, MEF, DICM and VV:
 Figure 7 corresponds to a dataset of real 6 images taken randomly at night:
 
  https://pan.baidu.com/s/1yg9zgktfQx2RDIM-tUr5iw?pwd=sdzi password:sdzi
+
+3. Test
+
+To begin:
+
+download  https://pan.baidu.com/s/1sAuyqkIJw_zjy_7B28VJrA?pwd=ia46 password: ia46, put it in the segmodel_checkpoint folder.
+
+
