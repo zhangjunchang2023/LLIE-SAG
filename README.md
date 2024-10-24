@@ -38,4 +38,4 @@ To begin:
 
 download  https://pan.baidu.com/s/1sAuyqkIJw_zjy_7B28VJrA?pwd=ia46 password: ia46, put it in the segmodel_checkpoint folder.
 
-
+Runs: LOIE_utils/Evaluate_images.py
