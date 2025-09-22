@@ -27,7 +27,7 @@ Datasets without reference images -NPE, LIME, MEF, DICM and VV:
   ![image](https://github.com/user-attachments/assets/4fac8b5b-3470-45e0-83bf-bfb1ccf44933)
 
   
-Figure 7 corresponds to a dataset of real 6 images taken randomly at night:
+Figure 7 corresponds to a dataset of real 106 images taken randomly at night:
 
  https://pan.baidu.com/s/1yg9zgktfQx2RDIM-tUr5iw?pwd=sdzi password:sdzi
 
