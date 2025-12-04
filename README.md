@@ -18,9 +18,10 @@ conda install pytorch=1.11 torchvision cudatoolkit=11.3 -c pytorch
 2. Prepare Dataset
    
  Synthetic datasets from CamVid and Cityscapes：
+
+https://pan.baidu.com/s/15G_SQuCKYLohvCYT9wKWZw?pwd=djve password: djve
  
-  https://pan.baidu.com/s/1j7-iDqp2UccTNhZ10eES6A?pwd=nw5w password: nw5w
-  
+
 Datasets without reference images -NPE, LIME, MEF, DICM and VV:
 
   https://pan.baidu.com/s/1zlMuewN4LEViqEVWK0dNdQ?pwd=jn99 password:jn99
